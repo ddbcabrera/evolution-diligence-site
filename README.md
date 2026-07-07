@@ -4,9 +4,10 @@ This is a simple static website. No GoDaddy website builder required.
 
 ## Files
 
-- `index.html` — page structure and copy
-- `styles.css` — visual styling
-- `evolution-diligence-logo.png` — logo image
+- `index.html` - page structure and copy
+- `styles.css` - visual styling
+- `evolution-diligence-logo.png` - logo image
+- `fonts/Geologica-Variable.ttf` - local Geologica font
 
 ## Quick local preview
 
@@ -16,7 +17,7 @@ Open `index.html` in a browser.
 
 In `index.html`, search for:
 
-`info@evolution-diligence.com`
+`dcabrera@evolution-diligence.com`
 
 Replace it with your preferred email.
 
